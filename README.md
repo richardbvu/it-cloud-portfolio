@@ -1,7 +1,7 @@
 # IT / Cloud Portfolio - Richard Vu
 
 ## Overview
-This repository serves as a central portfolio for hands-on IT and cloud projects focused on identity, access management, and troubleshooting.
+This repository serves as a central portfolio for hands-on IT and cloud projects focused on system administration, identity and access management, and troubleshooting across Microsoft-based on-prem and cloud environments.
 
 Each project is built using an evidence-first approach, including:
 - Build validation
@@ -9,14 +9,31 @@ Each project is built using an evidence-first approach, including:
 - Ticket documentation
 - Runbooks aligned to real IT support workflows
 
-The goal of this portfolio is to demonstrate practical, job-ready skills in identity management across on-prem and cloud environments.
+This portfolio demonstrates the ability to build, validate, and troubleshoot Microsoft-based environments using real IT support workflows and structured documentation.
 
 ---
 
-## Projects Overview
-- [Active Directory User Lifecycle](https://github.com/richardbvu/active-directory-user-lifecycle)
-- [Microsoft Entra Identity And Access Operations](https://github.com/richardbvu/microsoft-entra-identity-and-access-operations)
-- [Hybrid Identity Foundations And Source Of Authority](https://github.com/richardbvu/hybrid-identity-foundations-and-source-of-authority)
+## What This Portfolio Demonstrates
+- Ability to manage users and access across on-prem and cloud environments  
+- Ability to troubleshoot identity and authentication issues across multiple systems  
+- Understanding of how Active Directory, Microsoft Entra ID, and hybrid identity environments interact  
+- Experience documenting work using tickets, runbooks, and structured evidence  
+
+---
+
+## Start Here
+Recommended projects to review first:
+
+1. [**Hybrid Identity Foundations And Source Of Authority**](https://github.com/richardbvu/hybrid-identity-foundations-and-source-of-authority)  
+   - Demonstrates cross-environment identity behavior, source of authority, and hybrid troubleshooting  
+
+2. [**Microsoft Entra Identity And Access Operations**](https://github.com/richardbvu/microsoft-entra-identity-and-access-operations)  
+   - Demonstrates cloud identity management, RBAC, and access control  
+
+3. [**Active Directory User Lifecycle**](https://github.com/richardbvu/active-directory-user-lifecycle)  
+   - Demonstrates core on-prem user administration, group management, and workstation domain join  
+
+---
 
 ## Projects
 
@@ -59,27 +76,27 @@ Hybrid identity lab integrating Active Directory and Microsoft Entra ID, focused
 ---
 
 ## Skills Demonstrated Across Projects
-- Active Directory administration
-- Microsoft Entra ID administration
-- Hybrid identity concepts and synchronization
-- Role-Based Access Control (RBAC)
-- Identity lifecycle management
-- User Principal Name (UPN) troubleshooting
-- Security group and access management
-- Domain join and device identity validation
-- Structured troubleshooting methodology
-- Documentation: tickets, runbooks, and evidence
+- Active Directory administration  
+- Microsoft Entra ID administration  
+- Hybrid identity concepts and synchronization  
+- Role-Based Access Control (RBAC)  
+- Identity lifecycle management  
+- User Principal Name (UPN) troubleshooting  
+- Security group and access management  
+- Domain join and device identity validation  
+- Structured troubleshooting methodology  
+- Documentation: tickets, runbooks, and evidence  
 
 ---
 
 ## Project Approach
 All projects follow a consistent structure:
 
-- Build Evidence → proving correct configuration
-- Troubleshooting Evidence → capturing real issues and observations
-- Ticket Pack → polished support scenarios
-- Runbooks → reusable operational procedures
-- Resume/Interview → job-ready project summaries
+- Build Evidence → proving correct configuration  
+- Troubleshooting Evidence → capturing real issues and observations  
+- Ticket Pack → polished support scenarios  
+- Runbooks → reusable operational procedures  
+- Resume/Interview → job-ready project summaries  
 
 ---
 
